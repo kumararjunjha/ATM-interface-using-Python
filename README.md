@@ -1,13 +1,21 @@
 # ATM-interface-using-Python
 Python Programming intern
 How It Works:
+
 Run the script.
+
 Enter your account number and PIN to log in.
+
 Choose an option:
+
 Check Balance
+
 Deposit Money
+
 Withdraw Money
+
 Logout
+
 Perform transactions and safely log out.
 
 Users can use the following dummy test accounts in the script:
